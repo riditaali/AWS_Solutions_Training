@@ -1,0 +1,11 @@
+- Which of the following modeling frameworks does AWS Solutions Constructs work with?
+
+Answer: CDK
+
+- Which Programming languages are supported with AWS Solutions Constructs?
+
+Answer: 
+• TypeScript
+• JavaScript
+• Python
+• Java
