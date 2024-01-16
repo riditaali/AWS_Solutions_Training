@@ -1,0 +1,11 @@
+- What are some areas that AWS Professional Services and Partner Offers can help with in a customer's cloud journey?
+
+Answer: 
+
+• A clearer understanding of how to move their applications to the cloud. 
+• The shared responsibility model where AWS takes care of clouds’ security, and customers are responsible for application, server, and data security. 
+• Can provide expertise in building and operating applications in the cloud.
+
+- The AWS Solutions Library has over ____ consulting offers delivered by AWS Consulting Partners, providing trusted guidance to our customers with industry and technical domain expertise. 
+
+Answer: 60
