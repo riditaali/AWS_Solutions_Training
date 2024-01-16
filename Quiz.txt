@@ -1,0 +1,28 @@
+- You’ve never heard of Solutions Constructs or the CDK before, and want to know where to begin. Where would be a good starting point?
+
+Answer: Familiarizing yourself with the CDK first 
+
+- What asset type is not part of the AWS Solutions library ? 
+
+Answer: AWS Solutions Customer Stories
+
+- What does a Solutions Implementation include
+
+Answer:
+• Implementation Guide 
+• CloudFormation script 
+• Source code
+• Architecture diagram
+
+- Match the correct AWS Offerings to their definition
+
+Answer:
+
+• AWS Professional Services and Partner Offers - Deployment help from AWS Partners
+• AWS Solutions Implementations - Deploy vetted architecture directly into my AWS account
+• AWS Reference Architecture - A library of AWS-vetted architecture diagrams as a reference for projects
+• AWS Solution Constructs - Combine pre-built, well-architected multi-service patterns to create your own solution.
+
+- What are AWS Professional Services and Partner Offers?
+
+Answer: A collection of vetted solutions to common business and technical problems, delivered through consulting engagements provided by AWS Partners
