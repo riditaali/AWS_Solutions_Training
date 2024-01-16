@@ -1,0 +1,7 @@
+- Who vets AWS Solution Implementations? 
+
+Answer: AWS Architects
+
+- How many AWS Solutions Implementations are there today?
+
+Answer: 300+
