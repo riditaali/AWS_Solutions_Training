@@ -1,0 +1,9 @@
+- How many asset types are part of the AWS Solutions Library?
+Answer: Four
+
+- How customers can use AWS Solutions?
+Answer: 
+• Find vetted technical reference implementations designed to help you solve common problems and build faster.
+• Access portfolio of proven solutions delivered by vetted AWS Partners. 
+• Explore open-source extensions of the AWS Cloud Development Kit (CDK) that provide multi-service, well-architected patterns for quickly defining solutions in code to create predictable and repeatable infrastructure 
+• Get architecture best practices and guidance for designing a complex workload.
