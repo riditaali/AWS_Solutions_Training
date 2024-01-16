@@ -1,0 +1,29 @@
+AWS Solutions Reference Architecture
+I want to browse a library of AWS-vetted architecture diagrams as a reference for my project
+
+REFERENCE (link: https://aws.amazon.com/architecture/reference-architecture-diagrams/)
+
+AWS Solutions Implementations
+I want to deploy vetted architecture directly into my AWS account
+
+IMPLEMENTATIONS (link: https://aws.amazon.com/solutions/)
+
+AWS Solutions Constructs
+I want to combine pre-built, well-architected multi-service patterns to create my own solutions
+
+CONSTRUCTS (link: https://aws.amazon.com/solutions/constructs/)
+
+AWS Solutions Constructs GitHub
+I want to combine pre-built, well-architected multi-service patterns to create my own solutions
+
+GITHUB (link: https://github.com/awslabs/aws-solutions-constructs)
+
+AWS Professional Services and Partner Offers
+I want deployment help from AWS Partners
+
+PROFESSIONAL SERV... (link: https://aws.amazon.com/solutions/consulting-offers/)
+
+Solving with AWS Solutions
+Solving with AWS Solutions is your deep dive into architectures built by AWS that are ready to deploy instantly in the cloud. Come explore detailed deep dives into gold-standard reference architectures and learn how they can help you get started quickly on AWS.
+
+SOLVING (link: https://www.youtube.com/watch?v=VQ9d3bO4jgg&list=PLhr1KZpdzukfZfO3tznG8ZvxMvqTWtPH7&ab_channel=AmazonWebServices)
